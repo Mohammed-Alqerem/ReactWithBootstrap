@@ -1,0 +1,22 @@
+.heroBg{
+    background-color: #1abc9c;
+}
+
+.svgSize{
+    width: 10%;
+    height: 10%;
+}
+
+
+.whiteLine{
+    height: 7px;
+    
+    background-color: white;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+
