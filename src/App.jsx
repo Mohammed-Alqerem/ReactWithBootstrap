@@ -5,6 +5,7 @@ import Hero from './heroSection/Hero'
 import Portfolio from './portfolio/Portfolio'
 import About from './about/About'
 import Contacts from './contacts/Contacts'
+import Footer from './footer/Footer'
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
        <Portfolio/>
        <About/>
        <Contacts/>
+       <Footer/>
 
          
       
