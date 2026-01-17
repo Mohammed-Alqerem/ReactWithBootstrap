@@ -2,6 +2,7 @@ import React from 'react'
 
 import Navbar from './navbar/Navbar'
 import Hero from './heroSection/Hero'
+import Portfolio from './portfolio/Portfolio'
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
 
        <Navbar/>
        <Hero/>
+       <Portfolio/>
 
          
       
